@@ -1,5 +1,5 @@
 
-# 📘 Week 9 – Word Frequency Counter (Java)
+#  Week 9 – Word Frequency Counter (Java)
 
 ##  How to Compile and Run
 
@@ -38,7 +38,7 @@ pride-and-prejudice.txt   (or any input text file)
 ---
 
 
-## 📝 Example Output
+##  Example Output
 
 ```
 processing...

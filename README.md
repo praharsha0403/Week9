@@ -1,5 +1,5 @@
 
-#  Week 9 – Word Frequency Counter (Java)
+#  Week 9 – Word Frequency Counter 
 
 ##  How to Compile and Run
 

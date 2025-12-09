@@ -6,13 +6,15 @@
 ### **1. Compile the program**
 
 ```
-javac week9.java
+javac Iterators.java
+javac Streams.java 
 ```
 
 ### **2. Run the program with an input file**
 
 ```
-java week9 pride-and-prejudice.txt
+java Iterators pride-and-prejudice.txt
+java Streams pride-and-prejudice.txt
 ```
 
 This project implements a simple **word frequency analyzer** in Java.
@@ -30,7 +32,8 @@ It uses:
 ##  Files in This Folder
 
 ```
-week9.java
+Streams.java
+Iterators.java
 stop_words.txt
 pride-and-prejudice.txt   (or any input text file)
 ```

@@ -7,7 +7,7 @@ import java.util.stream.*;
 public class Streams {
     public static void main(String[] args) throws Exception {
         if (args.length < 1) {
-            System.out.println("pls pass input.txt file");
+            System.out.println("pride-and-predjudice.txt");
             return;
         }
 

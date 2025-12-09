@@ -6,7 +6,7 @@ import java.io.IOException;
 public class Iterators {
     public static void main(String[] args) throws IOException {
         if (args.length < 1) {
-            System.out.println("pls give filename like: java Iterators input.txt");
+            System.out.println("pride-and-prejudice.txt");
             return;
         }
 
